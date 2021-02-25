@@ -6,11 +6,5 @@ bot.on("ready", function (){
 });
 
 
-
-
-
-
-
-
-bot.login('process.env.token');
+bot.login('ODE0MTU5Njg3MzIyMDQyNDI4.YDZzSw.moO2cZgwnCoPXveZp13_2iWgcX8');
 
