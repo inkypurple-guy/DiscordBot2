@@ -8,5 +8,5 @@ bot.on("ready", function (){
     
     
     
-    bot.login('ODE0MTU5Njg3MzIyMDQyNDI4.YDZzSw.gfBCO79WxwPjYqSV2mw7mvkxlJQ')
+    bot.login('ODE0MTU5Njg3MzIyMDQyNDI4.YDZzSw.ZxVJYXagjEywqf-tBzgOgUOxn_4')
 
