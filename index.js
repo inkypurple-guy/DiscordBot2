@@ -6,5 +6,5 @@ bot.on("ready", function (){
 });
 
 
-clientInformation.login('ODE0MTU5Njg3MzIyMDQyNDI4.YDZzSw.gfBCO79WxwPjYqSV2mw7mvkxlJQ')
+client.login('ODE0MTU5Njg3MzIyMDQyNDI4.YDZzSw.gfBCO79WxwPjYqSV2mw7mvkxlJQ')
 
